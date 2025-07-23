@@ -1,1 +1,0 @@
-/home/bernard/learn/web3/polkadot/programming-tasks/1-low-level-intro-to-polkadot/solution/target/debug/solution: /home/bernard/learn/web3/polkadot/programming-tasks/1-low-level-intro-to-polkadot/solution/src/main.rs
